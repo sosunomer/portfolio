@@ -1,0 +1,16 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Kişisel Portfolio Websitesi",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "keywords": ["portfolio", "website"],
+  "author": "Ömer Sosun",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
