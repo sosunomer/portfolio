@@ -1,39 +1,49 @@
-# Kişisel Portfolio Websitesi
+# Ömer Sosun - Kişisel Web Sitesi
 
-Modern ve responsive tasarıma sahip kişisel portfolio websitesi.
+Bu proje, Ömer Sosun'un kişisel web sitesinin kaynak kodlarını içermektedir.
 
 ## Özellikler
 
 - Responsive tasarım
-- Karanlık/Aydınlık mod
-- Animasyonlu geçişler
+- Karanlık/Aydınlık tema desteği
 - İletişim formu
-- Proje vitrin alanı
+- Proje portfolyosu
+- Animasyonlu geçişler
+- SEO optimizasyonu
 
 ## Teknolojiler
 
 - HTML5
 - CSS3
 - JavaScript
-- EmailJS
+- Font Awesome
+- Google Fonts
 
 ## Kurulum
 
-1. Repoyu klonlayın:
+1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/username/portfolio.git
+git clone https://github.com/sosunomer/portfolio.git
 ```
 
-2. Bağımlılıkları yükleyin:
+2. Proje dizinine gidin:
 ```bash
-npm install
+cd portfolio
 ```
 
-3. Projeyi başlatın:
+3. Web sunucusunu başlatın:
 ```bash
-npm start
+npx http-server
 ```
+
+4. Tarayıcınızda http://localhost:8080 adresini açın
+
+## İletişim
+
+- Email: omersosun37@gmail.com
+- Telefon: 0543 927 22 26
+- Adres: İstanbul, Avcılar
 
 ## Lisans
 
-MIT 
+MIT License 
